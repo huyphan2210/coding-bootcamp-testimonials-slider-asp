@@ -1,10 +1,21 @@
 ﻿@page
 @model IndexModel
-@{
-    ViewData["Title"] = "Home page";
+
+@foreach (var testimonial in Model.Testimonials) {
+    <div class="testimonial">
+        <div class="quote">
+            <h1>@testimonial.Comment</h1>
+            <p>@testimonial.Name <span>@testimonial.Title</span></p>
+        </div>
+        <img src="@testimonial.Img" alt="@testimonial.Name" />
+    </div>
 }
 
-<div class="text-center">
-    <h1 class="display-4">aasss</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+<div id="button">
+    <button type="button" title="prev">
+        <img src="~/assets/images/icon-prev.svg" alt="Previous" />
+    </button>
+    <button type="button" title="next">
+        <img src="~/assets/images/icon-next.svg" alt="Next" />
+    </button>
 </div>

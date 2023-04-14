@@ -1,7 +1,10 @@
+using CodingBootcampTestimonialsSlider.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddTransient<JsonFileTestimonialsServices>();
 
 var app = builder.Build();
 
@@ -17,8 +20,6 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
-app.UseAuthorization();
 
 app.MapRazorPages();
 

@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CodingBootcampTestimonialsSlider.bundle.scp.css",
-      "PackagePath": "staticwebassets\\CodingBootcampTestimonialsSlider.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\assets\\images\\favicon-32x32.png"
     },

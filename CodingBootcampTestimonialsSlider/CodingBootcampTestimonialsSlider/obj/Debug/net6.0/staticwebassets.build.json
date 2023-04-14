@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "en0umsy6wXj54Tb2fLWbTuaWmNQCLOTv74ep8f6IsEQ=",
+  "Hash": "pJ5Y/JNrpyVjiZsqlTAo4jhtYcpEbCDbDQfvGPUk38o=",
   "Source": "CodingBootcampTestimonialsSlider",
   "BasePath": "_content/CodingBootcampTestimonialsSlider",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CodingBootcampTestimonialsSlider.styles.css",
-      "SourceId": "CodingBootcampTestimonialsSlider",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/CodingBootcampTestimonialsSlider",
-      "RelativePath": "CodingBootcampTestimonialsSlider.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CodingBootcampTestimonialsSlider.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CodingBootcampTestimonialsSlider.bundle.scp.css",
-      "SourceId": "CodingBootcampTestimonialsSlider",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "_content/CodingBootcampTestimonialsSlider",
-      "RelativePath": "CodingBootcampTestimonialsSlider.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CodingBootcampTestimonialsSlider.bundle.scp.css"
-    },
     {
       "Identity": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\favicon-32x32.png",
       "SourceId": "CodingBootcampTestimonialsSlider",

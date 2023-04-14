@@ -17,15 +17,18 @@ namespace CodingBootcampTestimonialsSlider.Services
             get { return Path.Combine(WebHostEnvironment.WebRootPath, "data", "testimonials.json"); }
         }
 
-        public IEnumerable<Testimonials> GetTestimonials()
+        public IEnumerable<Testimonials>? GetTestimonials()
         {
             using (var jsonFileReader = File.OpenText(JsonFileName))
             {
-                return JsonSerializer.Deserialize<Testimonials[]>(jsonFileReader.ReadToEnd(),
+                var testimonials = JsonSerializer.Deserialize<Testimonials[]>(jsonFileReader.ReadToEnd(),
                     new JsonSerializerOptions
                     {
                         PropertyNameCaseInsensitive = true
                     });
+                if (testimonials == null || testimonials.Length == 0) return null;
+
+                return testimonials;
             }
         }
     }

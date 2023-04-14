@@ -6,16 +6,68 @@ body {
     font-family: Inter, sans-serif;
     display: grid;
     place-items: center;
+    background-image: url(../assets/images/pattern-curve.svg);
+    background-repeat: no-repeat;
+    background-position: 0 100%;
 }
 
 main {
+    position: relative;
     width: 80%;
-    background-image: url(../assets/images/pattern-bg.svg);
+    background-image: url(../assets/images/pattern-bg.svg), url(../assets/images/pattern-quotes.svg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: contain, 10%;
     min-height: 80vh;
-    background-position: 100%;
+    background-position: 100%, 10% 20%;
+    overflow: hidden;
 }
+
+.testimonial {
+    position: absolute;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    width: calc(100% - 4rem);
+    height: calc(80% - 4rem);
+    top: 50%;
+    left: 0;
+    transform: translate(0, -50%);
+    padding: 2rem;
+}
+    #button {
+        position: absolute;
+        top: calc(90% - 2rem);
+        transform: translate(0, -50%);
+        left: 60%;
+        box-shadow: #e4e3e9 0 1rem 1rem;
+        background: white;
+        padding: 1rem;
+        border-radius: 2rem;
+    }
+        #button button {
+            background: white;
+            border: none;
+            margin-left: 0.5rem;
+            margin-right: 0.5rem
+        }
+            #button button:hover {
+                cursor: pointer;
+            }
+    .testimonial img {
+        height: 100%;
+    }
+    .testimonial:nth-child(2){
+        left: 100%;
+    }
+
+    .quote {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        transform: translate(0, -50%);
+        width: 60%;
+        line-height: 3rem;
+    }
 
 footer {
     position: fixed;

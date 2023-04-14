@@ -14,6 +14,9 @@ namespace CodingBootcampTestimonialsSlider.Models
         [JsonPropertyName("comment")]
         public string? Comment { get; set; }
 
+        [JsonPropertyName("img")]
+        public string? Img { get; set; }
+
         public override string ToString() => JsonSerializer.Serialize<Testimonials>(this);
     }
 }

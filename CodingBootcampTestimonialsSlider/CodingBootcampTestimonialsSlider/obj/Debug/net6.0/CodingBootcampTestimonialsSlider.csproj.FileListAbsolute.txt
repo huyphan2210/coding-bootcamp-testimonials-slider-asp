@@ -21,9 +21,7 @@ C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\Cod
 C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\CodingBootcampTestimonialsSlider\CodingBootcampTestimonialsSlider\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\CodingBootcampTestimonialsSlider\CodingBootcampTestimonialsSlider\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\CodingBootcampTestimonialsSlider\CodingBootcampTestimonialsSlider\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\CodingBootcampTestimonialsSlider\CodingBootcampTestimonialsSlider\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\CodingBootcampTestimonialsSlider\CodingBootcampTestimonialsSlider\obj\Debug\net6.0\scopedcss\bundle\CodingBootcampTestimonialsSlider.styles.css
-C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\CodingBootcampTestimonialsSlider\CodingBootcampTestimonialsSlider\obj\Debug\net6.0\scopedcss\projectbundle\CodingBootcampTestimonialsSlider.bundle.scp.css
 C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\CodingBootcampTestimonialsSlider\CodingBootcampTestimonialsSlider\obj\Debug\net6.0\CodingBootcampTestimonialsSlider.dll
 C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\CodingBootcampTestimonialsSlider\CodingBootcampTestimonialsSlider\obj\Debug\net6.0\refint\CodingBootcampTestimonialsSlider.dll
 C:\Users\pvmh\Frontend Mentor\Junior\coding-bootcamp-testimonials-slider-asp\CodingBootcampTestimonialsSlider\CodingBootcampTestimonialsSlider\obj\Debug\net6.0\CodingBootcampTestimonialsSlider.pdb
