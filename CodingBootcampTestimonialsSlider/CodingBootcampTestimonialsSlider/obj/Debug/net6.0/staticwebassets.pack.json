@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CodingBootcampTestimonialsSlider.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CodingBootcampTestimonialsSlider.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\icon-next.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-next.svg"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\icon-prev.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-prev.svg"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\image-john.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-john.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\image-tanya.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-tanya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\pattern-bg.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern-bg.svg"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\pattern-curve.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern-curve.svg"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\assets\\images\\pattern-quotes.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\pattern-quotes.svg"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\data\\testimonials.json",
+      "PackagePath": "staticwebassets\\data\\testimonials.json"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pvmh\\Frontend Mentor\\Junior\\coding-bootcamp-testimonials-slider-asp\\CodingBootcampTestimonialsSlider\\CodingBootcampTestimonialsSlider\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CodingBootcampTestimonialsSlider.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CodingBootcampTestimonialsSlider.props",
+      "PackagePath": "build\\CodingBootcampTestimonialsSlider.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CodingBootcampTestimonialsSlider.props",
+      "PackagePath": "buildMultiTargeting\\CodingBootcampTestimonialsSlider.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CodingBootcampTestimonialsSlider.props",
+      "PackagePath": "buildTransitive\\CodingBootcampTestimonialsSlider.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
